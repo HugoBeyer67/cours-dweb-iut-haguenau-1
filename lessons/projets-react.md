@@ -45,6 +45,7 @@ Quentin Kerguélen (@qkerguelen) et Hugo Beyer (@HugoBeyer67)
  * Changement des règles par une interface
  * Pièces ajoutables : Block,Beehive,Loaf,Boat , Blinker, Toad, Beacon, Pulsar, Pentadecathlon, Glider, Lightweight spaceship (LWSS) (Venant du serveur également)
  * Version natives iPhone et Android avec ReactNative
+Lien : http://hugobeyer.fr/life/
 
 ## Memory
 
